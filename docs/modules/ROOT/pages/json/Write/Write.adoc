@@ -1,20 +1,10 @@
-= JSON Table
+= API (Write)
 
 :url-repo: https://github.com/porisius/FicsitRemoteMonitoring
 
 [WARNING]
 ====
-These endpoints are new and not yet documented.
+Some endpoints are new and not yet documented.
 ====
 
-List of all write endpoints:
-
-[cols="1,1,2"]
-|===
-|Resource|Endpoint|Description
-
-| Factory
-| setSwitches
-| Updates settings of a power switch (Name, Status, Priority).
-
-|===
+include::../_write.adoc[]
