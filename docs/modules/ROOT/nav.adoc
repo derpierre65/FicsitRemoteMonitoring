@@ -106,4 +106,4 @@
 ** xref:json/Write/Write.adoc[Write]
 
 *** Factory
-**** setSwitches (soon)
+**** xref:json/Write/setSwitches.adoc[setSwitches]
